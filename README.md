@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+With the rapid growth of the internet and digital media, the demand for online video streaming platforms has  skyrocketed in recent years. People across the globe are increasingly turning to online video streaming  platforms as a primary source of entertainment, making it a lucrative market for entrepreneurs and businesses  alike. This has led to the development of various video streaming platforms catering to different niche  audiences. However, with the ever-increasing competition in this industry, it has become essential to provide  a platform that offers high-quality video content, user-friendly navigation, and personalized user experiences  to stand out from the crowd. 
 
 ## Available Scripts
 
